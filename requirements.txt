@@ -1,0 +1,7 @@
+dotenv
+csv
+telethon
+os
+pandas
+numpy
+re
